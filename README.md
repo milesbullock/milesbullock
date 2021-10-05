@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milesbullock
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning responsive web development 
+- 🌱 I’m a website developer for Nest 247
 - 💞️ I’m looking to collaborate on web applications 
 - 📫 How to reach me miles.bullock@outlook.com
 
